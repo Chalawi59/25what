@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" name="Al-Arabiya" group="NEWS", Al-Arabiya
+http://beryantv.com:25461/28443245223124/28443245223124/945
+#EXTINF:0 type="stream" channelId="-1" name="Alhadath" group="NEWS", Alhadath
+http://beryantv.com:25461/28443245223124/28443245223124/946
+#EXTINF:0 type="stream" channelId="-1" name="Sharq-News" group="NEWS", Sharq-News
+http://beryantv.com:25461/28443245223124/28443245223124/953
+#EXTINF:0 type="stream" channelId="-1" name="Iraqia-News" group="NEWS", Iraqia-News
+http://beryantv.com:25461/28443245223124/28443245223124/954
+#EXTINF:0 type="stream" channelId="-1" name="MBC2" group="MBC", MBC2
+http://beryantv.com:25461/28443245223124/28443245223124/928
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Action" group="MBC", MBC-Action
+http://beryantv.com:25461/28443245223124/28443245223124/935
+#EXTINF:0 type="stream" channelId="-1" name="MBC-Max" group="MBC", MBC-Max
+http://beryantv.com:25461/28443245223124/28443245223124/936
+#EXTINF:0 type="stream" channelId="2481" name="FOX-Action" group="OSN&BEIN&FOX", FOX-Action
+http://beryantv.com:25461/28443245223124/28443245223124/892
+#EXTINF:0 type="stream" channelId="-1" name="OSN Action HD" group="OSN&BEIN&FOX", OSN Action HD
+http://beryantv.com:25461/28443245223124/28443245223124/889
+#EXTINF:0 type="stream" channelId="-1" name="OSN Movies HD" group="OSN&BEIN&FOX", OSN Movies HD
+http://beryantv.com:25461/28443245223124/28443245223124/884
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies HD" group="OSN&BEIN&FOX", OSN First Movies HD
+http://beryantv.com:25461/28443245223124/28443245223124/885
+#EXTINF:0 type="stream" channelId="-1" name="OSN First Movies 2 HD" group="OSN&BEIN&FOX", OSN First Movies 2 HD
+http://beryantv.com:25461/28443245223124/28443245223124/886
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX BOX OFFICE" group="OSN&BEIN&FOX", NETFLIX BOX OFFICE
+http://beryantv.com:25461/28443245223124/28443245223124/875
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 2" group="OSN&BEIN&FOX", NETFLIX ACTION 2
+http://beryantv.com:25461/28443245223124/28443245223124/877
+#EXTINF:0 type="stream" channelId="-1" name="NETFLIX ACTION 1" group="OSN&BEIN&FOX", NETFLIX ACTION 1
+http://beryantv.com:25461/28443245223124/28443245223124/878
+
+
+
+
